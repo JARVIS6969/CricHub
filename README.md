@@ -1,6 +1,6 @@
 # CricHub
 
-> A cricket community for live scores, discussions, and predictions.
+> A cricket community for live scores, live chatroom, discussions, and predictions.
 
 ## 🚀 Features
 - 🏏 Live Cricket Scores
@@ -48,7 +48,7 @@ We welcome contributions! Please follow these steps:
 This project is licensed under the MIT License - see the [LICENSE](./license) file for details.
 
 ## 📬 Contact
-For any queries, reach out at **your-email@example.com** or open an issue on GitHub!
+For any queries, reach out at **j23201115@gmail.com** or open an issue on GitHub!
 
 ---
 
