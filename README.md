@@ -30,7 +30,7 @@
    ```
 3. Install dependencies:
    ```sh
-   npm install
+   npm install 
    ```
 4. Start the development server:
    ```sh
