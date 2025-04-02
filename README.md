@@ -13,7 +13,7 @@
 ## 🛠 Tech Stack 
 - **Frontend:** React.js / Next.js
 - **Backend:** Node.js / Express
-- **Database:** MongoDB / Firebase 
+- **Database:** MongoDB / Firebase  
 - **API Integration:** Cricket Live API
   
 ## 📸 Screenshots
