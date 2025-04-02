@@ -4,7 +4,7 @@
 
 ## 🚀 Features
 - 🏏 Live Cricket Scores
-- 📊 Match Predictions & Analytics
+- 📊 Match Predictions & Analytics 
 - 🗣 Community Discussions 
 - Chatroom
 - 🔔 Notifications for Upcoming Matches
