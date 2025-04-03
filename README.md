@@ -8,7 +8,7 @@
 - 🗣 Community Discussions 
 - Chatroom 
 - 🔔 Notifications for Upcoming Matches
-- 📅 Match Schedules & Fixtures
+- 📅 Match Schedules & Fixtures 
 
 ## 🛠 Tech Stack 
 - **Frontend:** React.js / Next.js
