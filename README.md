@@ -7,7 +7,7 @@
 - 📊 Match Predictions & Analytics 
 - 🗣 Community Discussions 
 - Chatroom 
-- 🔔 Notifications for Upcoming Matches
+- 🔔 Notifications for Upcoming Matches 
 - 📅 Match Schedules & Fixtures 
 
 ## 🛠 Tech Stack 
