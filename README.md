@@ -3,7 +3,7 @@
 > A cricket community for live scores, live chatroom, discussions, and predictions.
 
 ## 🚀 Features
-- 🏏 Live Cricket Scores
+- 🏏 Live Cricket Scores 
 - 📊 Match Predictions & Analytics 
 - 🗣 Community Discussions  
 - Chatroom 
