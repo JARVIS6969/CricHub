@@ -10,7 +10,7 @@
 - 🔔 Notifications for Upcoming Matches 
 - 📅 Match Schedules & Fixtures 
 
-## 🛠 Tech Stack 
+## 🛠 Tech Stack     
 - **Frontend:** React.js / Next.js
 - **Backend:** Node.js / Express
 - **Database:** MongoDB / Firebase    
