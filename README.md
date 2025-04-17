@@ -11,7 +11,7 @@
 - 📅 Match Schedules & Fixtures 
 
 ## 🛠 Tech Stack     
-- **Frontend:** React.js / Next.js
+- **Frontend:** React.js / Next.js 
 - **Backend:** Node.js / Express
 - **Database:** MongoDB / Firebase    
 - **API Integration:** Cricket Live API
