@@ -1,6 +1,6 @@
 # CricHub
 
-> A cricket community for live scores, live chatroom, discussions, and predictions.
+> A cr icket community for live scores, live chatroom, discussions, and predictions.
 
 ## 🚀 Features
 - 🏏 Live Cricket Scores 
